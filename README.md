@@ -4,9 +4,9 @@
 
 Windows ML empowers you to bring your own model, or pick from our growing Foundry catalog, and helps you optimize your AI workload across CPU/GPU/NPU, all while streamlining model & runtime dependency management. Refer to [What is Windows ML](https://aka.ms/TryWinML) for more details.
 
-This repo shows you how to use Windows ML in csharp, cpp and python. It contains the ResnetBuildDemo app that was shown MS Build 2025, and a couple of other cs, cpp and python samples.
+This repo shows you how to use Windows ML in C#, C++ and Python. It contains the ResnetBuildDemo app that was shown MS Build 2025, and a couple of other C#, C++ and Python samples.
 
-Before running any csharp and cpp sample app, please visit [Windows ML - Distributing your app](https://learn.microsoft.com/en-us/windows/ai/new-windows-ml/distributing-your-app) to learn about required steps to install Windows ML Runtime on your machine. In summary, you can either create an installer that uses WinML's Bootstrap functionality to deploy the Runtime package, or use winget to provision the Windows ML Runtime package on your current device. Python sample does not require additional setup steps.
+Before running any C# and C++ sample app, please visit [Windows ML - Distributing your app](https://learn.microsoft.com/en-us/windows/ai/new-windows-ml/distributing-your-app) to learn about required steps to install Windows ML Runtime on your machine. In summary, you can either create an installer that uses WinML's Bootstrap functionality to deploy the Runtime package, or use winget to provision the Windows ML Runtime package on your current device. Python sample does not require additional setup steps.
 
 ## Contributing
 
