@@ -2,6 +2,8 @@
 
 ## Description
 
+> **Update**: The Windows ML APIs are now part of the Windows App SDK. Get the updated samples at [aka.ms/WinMLExpSamples](https://aka.ms/WinMLExpSamples) and learn more about how to use the APIs from the documentation at [aka.ms/TryWinML](https://aka.ms/TryWinML).
+
 Windows ML empowers you to bring your own model, or pick from our growing Foundry catalog, and helps you optimize your AI workload across CPU/GPU/NPU, all while streamlining model & runtime dependency management. Refer to [What is Windows ML](https://aka.ms/TryWinML) for more details.
 
 This repo shows you how to use Windows ML in C#, C++ and Python. It contains the ResnetBuildDemo app that was shown MS Build 2025, and a couple of other C#, C++ and Python samples.
@@ -23,4 +25,5 @@ For more information see the [Code of Conduct FAQ](https://opensource.microsoft.
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
 ## Trademarks 
+
 This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft trademarks or logos is subject to and must follow Microsoft’s Trademark & Brand Guidelines. Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship. Any use of third-party trademarks or logos are subject to those third-party’s policies.
